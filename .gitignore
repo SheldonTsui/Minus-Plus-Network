@@ -1,0 +1,9 @@
+ADE20K/
+ckpt/
+vegas_data/
+data/
+logs/
+__pycache__/
+backup/
+
+*.swp
